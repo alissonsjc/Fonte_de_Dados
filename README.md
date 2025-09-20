@@ -8,9 +8,9 @@ https://fatecspgov-my.sharepoint.com/:p:/r/personal/luis_santos210_fatec_sp_gov_
 
 
 ## Para responder essas questões utilizei as formmulas:
-=MÁXIMOSES;
-=MÍNIMOSES;
-=MÉDIASE;
-=CONT.VALORES;
-=CORRESP;
-=ÍNDICE;
+=MÁXIMOSES,
+=MÍNIMOSES,
+=MÉDIASE,
+=CONT.VALORES,
+=CORRESP,
+=ÍNDICE,
